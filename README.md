@@ -4,13 +4,13 @@ Repo ini berisi **project praktikum** untuk mata kuliah **Pemrograman Perangkat 
 ## 📸 Screenshot Aplikasi
 
 <div align="center">
-  <img src="./assets/screenshots/datamahasiswa.jpeg" alt="DataMahasiwa" width="250" />
-  <img src="./assets/screenshots/tambahmahasiswa.jpeg" alt="TambahData" width="250" />
+  <img src="./assets/datamahasiswa.jpeg" alt="DataMahasiwa" width="250" />
+  <img src="./assets/tambahmahasiswa.jpeg" alt="TambahData" width="250" />
 </div>
 
 <div align="center">
-  <img src="./assets/screenshots/edit.jpeg" alt="Edit" width="250" />
-  <img src="./assets/screenshots/hapus.jpg" alt="Hapus" width="250" />
+  <img src="./assets/edit.jpeg" alt="Edit" width="250" />
+  <img src="./assets/hapus.jpg" alt="Hapus" width="250" />
 </div>
 
 ---
