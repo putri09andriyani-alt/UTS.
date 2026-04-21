@@ -1,17 +1,11 @@
 # Belajar Expo – Pemrograman Perangkat Mobile 2
 
 Repo ini berisi **project praktikum** untuk mata kuliah **Pemrograman Perangkat Mobile 2**, pakai **Expo** dan **React Native**. Di sini kamu bisa jalankan app, lihat contoh kode, dan ikuti panduan praktikum—**Praktikum 2** (Functional Component, props, useState), **Praktikum 3** (CRUD, Login, Logout), serta **koneksi ke database cloud Supabase** (baca data mahasiswa lewat tab **Cloud**).
-## 📸 Screenshot Aplikasi
-
-<div align="center">
-  <img src="./assets/datamahasiswa.jpeg" alt="DataMahasiwa" width="250" />
-  <img src="./assets/tambahmahasiswa.jpeg" alt="TambahData" width="250" />
-</div>
-
-<div align="center">
-  <img src="./assets/edit.jpeg" alt="Edit" width="250" />
-  <img src="./assets/hapus.jpg" alt="Hapus" width="250" />
-</div>
+## 📸 Tampilan Dashboard
+![Dashboard](assets/images/datamahasiswa.jpeg) 
+![Dashboard](assets/images/tambahmahasiswa.jpeg) 
+![Dashboard](assets/images/edit.jpeg) 
+![Dashboard](assets/images/hapus.jpeg) 
 
 ---
 
